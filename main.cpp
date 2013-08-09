@@ -8,5 +8,6 @@ int main(){
     cout<<"test6"<<endl;
     cout<<"test7"<<endl;
     cout<<"test8"<<endl;
+    cout<<"test9"<<endl;
     return 0;
 }
