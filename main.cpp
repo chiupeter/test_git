@@ -5,5 +5,6 @@ int main(){
     cout<<"test2"<<endl;
     cout<<"test5"<<endl;
     cout<<"test3"<<endl;
+    cout<<"test6"<<endl;
     return 0;
 }
