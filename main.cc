@@ -9,5 +9,6 @@ int main(){
     cout<<"test7"<<endl;
     cout<<"test8"<<endl;
     cout<<"test9"<<endl;
+    cout<<"branch2"<<endl;
     return 0;
 }
