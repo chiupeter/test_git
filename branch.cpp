@@ -4,5 +4,6 @@ int main(){
     cout<<"test branch"<<endl;
     cout<<"test branch2"<<endl;
     cout<<"test branch3"<<endl;
+    cout<<"test after create 2nd branch"<<endl;
     return 0;
 }
