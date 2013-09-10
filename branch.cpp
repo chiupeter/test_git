@@ -6,5 +6,6 @@ int main(){
     cout<<"test branch3"<<endl;
     cout<<"test after create 2nd branch"<<endl;
     cout<<"test"<<endl;
+    cout<<"test2"<<endl;
     return 0;
 }
