@@ -8,5 +8,6 @@ int main(){
     cout<<"test"<<endl;
     cout<<"test2"<<endl;
     cout<<"git conflict test"<<endl;
+    cout<<"test revert"<<endl;
     return 0;
 }
