@@ -7,5 +7,7 @@ int main(){
     cout<<"test after create 2nd branch"<<endl;
     cout<<"test"<<endl;
     cout<<"test2"<<endl;
+    cout<<"test commit"<<endl;
+    cout<<"test amend"<<endl;
     return 0;
 }
