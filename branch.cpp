@@ -7,5 +7,6 @@ int main(){
     cout<<"test after create 2nd branch"<<endl;
     cout<<"test"<<endl;
     cout<<"test2"<<endl;
+    cout<<"git conflict test"<<endl;
     return 0;
 }
